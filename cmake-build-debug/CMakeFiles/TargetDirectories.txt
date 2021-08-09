@@ -1,0 +1,3 @@
+E:/c++ programs/new questions/cmake-build-debug/CMakeFiles/new_questions.dir
+E:/c++ programs/new questions/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c++ programs/new questions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
